@@ -4,11 +4,11 @@ programa {
 		inteiro Anos, Meses, Dias
 		inteiro resultado
 		
-		escreva("Anos: ")
+		escreva("Anos de idade: ")
 		leia(Anos)
-		escreva("Meses: ")
+		escreva("Meses de idade: ")
 		leia(Meses)
-		escreva("Dias: ")
+		escreva("Dias de idade: ")
 		leia(Dias)
 		
 		resultado = (365 * Anos) + (Meses * 30) + Dias
@@ -22,7 +22,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 35; 
+ * @POSICAO-CURSOR = 198; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
